@@ -1,0 +1,16 @@
+div {
+    display: block;
+    background-color: aqua;
+    color: #333;
+    font: 15px/21px Arial,Helvetica,sans-serif;
+    margin: 0 auto 40px;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+    overflow-x: auto;
+    text-size-adjust: 100%;
+}
+
+a{
+    margin-left: 10px;
+}
