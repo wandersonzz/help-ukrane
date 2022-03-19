@@ -17,7 +17,9 @@ function App() {
           <p className="support-ukraine-donate-now">
             Doe agora para ajudar a fornecer ajuda humanitária
           </p>
-          <p className="support-ukraine-humanitarian">ajuda humanitária</p>
+          
+          <p className="support-ukraine-humanitarian">ajuda humanitária</p><br />
+          <strong>CEO: Wanderson Felipe / Rafael Baitola</strong>
         </div>
       </div>
       <div className="support-ukraine-fonds">
