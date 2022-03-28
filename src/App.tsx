@@ -34,16 +34,6 @@ function App() {
           />
         </a>
         <a
-          href="https://donate.redcrossredcrescent.org/ua/donate/~my-donation?_cv=1"
-          target="_blank"
-          rel="nofollow noopener"
-        >
-          <img
-            src="https://pt.savefrom.net/assets/experiment/supportUkraine/img/fonds/3.png"
-            alt="fond-1"
-          />
-        </a>
-        <a
           href="https://dobro.ua/en/projects/category/zdorovia"
           target="_blank"
           rel="nofollow noopener"
